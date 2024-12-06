@@ -1,9 +1,9 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Button } from "@/components/ui/button"
-import { Card, CardContent } from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
+import { Button } from "../components/ui/button"
+import { Card, CardContent } from "../components/ui/card"
+import { Input } from "../components/ui/input"
 import { generateBandName, generateFestivalName } from '../utils/generators'
 import { actions } from '../utils/actions'
 import { Band } from '../types/band'
