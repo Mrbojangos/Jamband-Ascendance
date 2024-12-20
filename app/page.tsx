@@ -114,7 +114,7 @@ export default function JambandAscendancy() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-2xl sm:text-3xl font-bold mb-4">Jamband Ascendancy</h1>
+      <h1 className="text-2xl sm:text-3xl font-bold mb-4">Jamband Ascendance</h1>
 
       <div className="grid md:grid-cols-2 gap-4">
         <div>
